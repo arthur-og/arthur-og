@@ -4,8 +4,10 @@
 <p align="center">
   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="40" />
   &nbsp;&nbsp;&nbsp;
+  <!--
   <img alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="40" />
   &nbsp;&nbsp;&nbsp;
+  -->
   <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="40" />
   &nbsp;&nbsp;&nbsp;
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40" />
