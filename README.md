@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Arthur 👋</h1>
-<h3 align="center">Desenvolvedor em C++, Rust, C e Python</h3>
+<h3 align="center">Desenvolvedor em C++<!--, Rust-->, C e Python</h3>
 
 <p align="center">
   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="40" />
